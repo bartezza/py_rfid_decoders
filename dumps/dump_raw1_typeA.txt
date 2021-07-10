@@ -1,0 +1,18 @@
+ff00fcff ff00fcff 3f
+fcffffff 3f
+fcffff00 f3
+ffffff00 f3
+ff00fcff ff
+fcffffff 3f
+ffffff00 f3
+ff00fcff ff
+ffffffff 3f
+ffffffff ff
+ffffffff
+00006076 60760700 e0 66760700 1e 00006066 1e 60760700 a0 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 60760700 1e 66760700 1e 00006066 1e 00000000 a0 00000000 00 00000000
+ff0f0000 c0ffffff ff c0ffff0f f8 ffffff0f f8 ff0fc0ff ff c0ffffff ff ffffff0f f8 ff0fc0ff ff c0ffffff ff c0ffff0f f8 ffffff0f f8 ff0fc0ff ff ff0fc0ff ff ff0fc0ff ff ff0fc0ff ff c0ffffff ff ffffff0f f8 ff0fc0ff ff ff0fc0ff ff ff0fc0ff ff ffffffff ff ffffffff ff ffffffff
+00000077 33777f00 c0 7f000033 f3 7f000077 f8 7f000077 fc 7f000077 fc 00000077 fc 00777f00 fc 00777f00 f3 33777f00 f3 00000033 f3 00777f00 f8 33777f00 f3 7f000033 f3 7f000077 f8 7f000077 fc 7f000077 fc 7f000077 fc 00000077 fc 00777f00 fc 33777f00 f3 7f000033 f3 7f000077 f8 7f000077 fc 7f000077 fc 7f000077 fc 7f000077 fc 7f000077 fc 7f000077 fc 7f000077 fc 7f000077 fc 7f000077 fc 00000077 fc 00777f00 fc 33777f00 f3 7f000032 f3 00000077 f8 00777f00 fc 33777f00 f3 00000032 f3 00777f00 f8 73777f00 f3 00000032 f3 73777f00 f8 00000032 f3 00777f00 f8 00000000 f3 00000000 f0 00000000
+ff7f0000 00feffff ff 00feff7f f8 ffffff7f f8 ff7f00fe ff 00feffff ff ffffff7f f8 ff7f00fe ff 00feffff ff 00feff7f f8 ffffff7f f8 ff7f00fe ff ff7f00fe ff ff7f00fe ff 00feffff ff 00feff7f f8 00feff7f f8 ffffff7f f8 ff7f00fe ff ff7f00fe ff 00feffff ff 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 ffffff7f f8 ff7f00fe ff ff7f00fe ff 00feffff ff ffffff7f f8 ff7f00fe ff 00feffff ff 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 ffffff7f f8 ff7f00fe ff 00feffff ff 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 00feff7f f8 ffffff7f f8 ff7f00fe ff 00feffff ff 00feff7f f8 ffffff7f f8 ff7f00fe ff 00feffff ff ffffff7f f8 ff7f00fe ff 00feffff ff ffffff7f f8 00feffff ff ffffff7f f8 00feffff ff ffffff7f f8 ff7f00fe ff ff7f00fe ff 00feffff ff ffffff7f f8 ff7f00fe ff 00feffff ff ffffff7f f8 ff7f00fe ff 00feffff ff ffffff7f f8 ff7f00fe ff 00feffff ff 00feff7f f8 ffffff7f f8 00feffff ff 00feff7f f8 ffffff7f f8 ffffffff ff ffffffff ff ffffffff
+bbffffff 00000030 e0 0030bb03 1e 0030bb03 1e 3333bb03 1e 00000030 a0 0030bb03 1e 0030bb03 1e 0030bb03 1e 0030bb03 1e 0030bb03 1e 3333bb03 1e bb030030 a1 00000030 e0 3333bb03 1e bb030030 a1 00000030 e0 3333bb03 1e 00000030 a0 3333bb03 1e 00000030 a0 3333bb03 1e bb030030 a1 bb030030 e1 00000030 e0 3333bb03 1e bb030030 a1 bb030030 e1 00000030 e0 00000000 00 00000000 00 00000000
+ffff0300 ffff03f0 fc ffff03f0 ff ffff03f0 ff ffff03f0 ff 03f0ffff ff ffffffff f8 03f0ffff ff ffffffff f8 03f0ffff ff ffffffff f8 ffff03f0 ff ffff03f0 ff ffff03f0 ff ffff03f0 ff ffff03f0 ff ffff03f0 ff ffff03f0 ff 03f0ffff ff 03f0ffff f8 03f0ffff f8 03f0ffff f8 ffffffff f8 03f0ffff ff ffffffff f8 03f0ffff ff ffffffff f8 ffff03f0 ff 03f0ffff ff ffffffff f8 03f0ffff ff 03f0ffff f8 ffffffff f8 ffff03f0 ff 03f0ffff ff 03f0ffff f8 ffffffff f8 ffff03f0 ff ffffffff ff ffffffff ff ffffffff
+80ffffff 00000000 00 00000000 f0 00000000
