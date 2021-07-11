@@ -1,6 +1,6 @@
 
 from .decoder_utils import group_bits, get_zero_gap_sizes,\
-    fill_gaps, show_bin_str
+    fill_gaps, show_bin_str, hex_str_to_bitstream
 
 
 def decode_manchester(bits: str, verbose: bool = False) -> str:
@@ -19,8 +19,6 @@ def decode_manchester(bits: str, verbose: bool = False) -> str:
     bits = fill_gaps(bits, 5)
 
     print(bits)
-
-    print("39 = {}".format(show_bin_str(int("39", 16))[::-1]))
 
     cc = group_bits(bits)
 
@@ -79,6 +77,8 @@ def decode_manchester(bits: str, verbose: bool = False) -> str:
         raise Exception("Could not detect short/long gap sizes")
     
     print(f"Long gap = {long_gap_len}, short gap = {short_gap_len}")
+
+    print("3e f9 = {}".format(hex_str_to_bitstream("3e f9")))
 
     for idx2 in range(idx, len(cc)):
         cur_bit, cur_gap_len = cc[idx2]

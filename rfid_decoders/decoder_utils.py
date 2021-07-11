@@ -48,10 +48,10 @@ def split_bitstream(bits: str, group_size: int) -> List[str]:
 
 
 def bitstream_to_bytes(bits: str) -> List[int]:
-    bytes = split_bitstream(bits, 8)
+    byts = split_bitstream(bits, 8)
     return [
         int(b[::-1], 2)
-        for b in bytes
+        for b in byts
     ]
 
 
@@ -63,9 +63,17 @@ def hex_to_bin_str(w: str) -> str:
     return show_bin_str(int(w, 16))
 
 
-def dump_hex_array(bytes: List[int]) -> str:
+def hex_str_to_bitstream(vals: str) -> str:
+    """
+    NOTE: bitstream is readable from left to right, LSB
+    """
+    byts = [int(v, 16) for v in vals.split(" ")]
+    return " ".join([bin(v)[2:].zfill(8)[::-1] for v in byts])
+
+
+def dump_hex_array(byts: List[int]) -> str:
     ret = ""
-    for b in bytes:
+    for b in byts:
         if ret:
             ret += " "
         h = hex(b)[2:]
